@@ -5,6 +5,8 @@ I'm a 29 years old coding and design enthusiast. I'm constantly striving to lear
 
 In addition, I love learning and working with an open mind to discover new ideas. If you'd like to get in touch with me or work together, please feel free to [contact me!](mailto:omeralemdar94@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=vis-cognitionis&color=blue)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/omer-alemdar/)
 
 Here are some of my highlighted projects:
@@ -39,8 +41,6 @@ Here are some of my highlighted projects:
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" title="Unity"/></a>
 </div>
-
-<br>
 
 
 
