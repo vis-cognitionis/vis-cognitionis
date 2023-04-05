@@ -1,5 +1,5 @@
 ## Hi there I am Ömer 👋
-### Frontend | React Developer
+### Frontend Developer
 
 I'm a 29 years old coding and design enthusiast. I'm constantly striving to learn new things and always planning ahead for future projects. When I write code, I can get lost in my own world with a great cup of coffee. I think this is one of the most important things when it comes to creating something creative, which is why I enjoy dedicating time to my personal projects.
 
