@@ -13,7 +13,8 @@ Here are some of my highlighted projects:
 - [Weather App](https://github.com/vis-cognitionis/weather_app): A cross-platform mobile application
 - [Rest Countries API](https://github.com/vis-cognitionis/rest_countries_api): Provides information about countries using data from REST Countries API.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vis-cognitionis&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vis-cognitionis&hide_progress=true&theme=transparent)](https://github.com/vis-cognitionis/github-readme-stats)
+
 
 ### What technologies do I use?
 
@@ -43,8 +44,3 @@ Here are some of my highlighted projects:
   <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" title="Unity"/></a>
 </div>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vis-cognitionis&show_icons=true&theme=transparent)
-
-
-
