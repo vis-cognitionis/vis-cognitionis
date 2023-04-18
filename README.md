@@ -13,8 +13,7 @@ Here are some of my highlighted projects:
 - [Weather App](https://github.com/vis-cognitionis/weather_app): A cross-platform mobile application
 - [Rest Countries API](https://github.com/vis-cognitionis/rest_countries_api): Provides information about countries using data from REST Countries API.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vis-cognitionis&hide_progress=true&theme=transparent)](https://github.com/vis-cognitionis/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vis-cognitionis&hide_progress=true&theme=transparent)
 
 ### What technologies do I use?
 
