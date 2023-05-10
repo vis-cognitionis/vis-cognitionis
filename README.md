@@ -34,6 +34,7 @@ Here are some of my highlighted projects:
 ### What am I learning ?
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue" title="Vue"/></a>
+    <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/?size=48&id=71257&format=png" alt="Angular" title="Angular"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js"/></a>
