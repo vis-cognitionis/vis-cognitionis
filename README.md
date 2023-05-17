@@ -44,6 +44,8 @@ Here are some of my highlighted projects:
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vis-cognitionis&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="vis-cognitionis" /></p>
-<p>&nbsp;<img align="rigt" src="https://github-readme-stats.vercel.app/api?username=vis-cognitionis&show_icons=true&theme=radical" alt="vis-cognitionis" width="53%" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vis-cognitionis&hide_progress=true&theme=transparent)
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vis-cognitionis&show_icons=true&theme=transparent)
+
 
